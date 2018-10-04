@@ -3,7 +3,7 @@ galaxy_info:
   author: Pawel Krupa
   description: Prometheus Pushgateway
   license: MIT
-  min_ansible_version: 2.4
+  min_ansible_version: 2.5
   role_name: pushgateway
   platforms:
     - name: Ubuntu
